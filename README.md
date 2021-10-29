@@ -1,4 +1,4 @@
-# CSC450_SQLI_Project // Testing The Effectiveness Between Two Signature Based IPS Software Against SQL Injection
+# Testing The Effectiveness Between Two Signature Based IPS Software Against SQL Injection
  
 
 
